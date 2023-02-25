@@ -1,0 +1,78 @@
+.hello
+{
+     background: rgba(0,0,0,0.4) url(certificat_page.jpg);
+     background-size: cover;
+     background-blend-mode: darken;
+     
+}
+.bye
+{
+    background-color:rgb(233, 185, 30);
+}
+.bye2
+{
+    background-color:rgb(233, 185, 30);
+}
+.all_right
+{
+    left: 15%;
+    align-items: center;
+    font-size: large;
+}
+.all_right
+{
+    background: rgba(0,0,0,0.4) url(kill_bg.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+
+}
+.head1
+{
+    background-color:rgb(233, 185, 30);
+}
+.bye23
+{
+    background-color:rgb(233, 185, 30);
+}
+.hello_ed
+{
+    background: rgba(0,0,0,0.1) url(pen.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.head2
+{
+    background-color:rgb(233, 185, 30);
+} 
+.head3
+{
+    background-color:rgb(233, 185, 30);
+}  
+.main3
+{
+    background: rgba(0,0,0,0.1) url(kill_bg.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.head9
+{
+    background-color:rgb(233, 185, 30);
+}
+.get
+{
+    background: rgba(0,0,0,0.1) url(exp21.jfif);
+    background-size: cover;
+    background-blend-mode: darken; 
+}
+.head10
+{
+    background-color:rgb(233, 185, 30);
+}
+.hill
+{
+  background: rgba(0,0,0,0.1) url(contact_bg.avif);
+  background-size: cover;
+    background-blend-mode: darken;
+    
+    height: 100%;
+}
